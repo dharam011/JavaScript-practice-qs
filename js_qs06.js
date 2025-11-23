@@ -1,4 +1,4 @@
- const maxArray =function (arr){
+ const maxArray =(arr)=>{
     let max = arr[0]
     for (let i =0 ; i< arr.length-1;i++){
         if (arr[i]>max){
